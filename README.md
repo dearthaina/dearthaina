@@ -21,7 +21,7 @@
 | 🏢 Sistema de Controle de Acesso | Desenvolvimento | Python | [GitHub](https://github.com/dearthaina/sistema_portaria) |
 | 📊 Detector de imagens | Visão Computacional | Python • YOLO • IA | [GitHub](https://github.com/dearthaina/computer-vision) |
 | 🤖 Agente de IA Joke | Inteligência Artificial | IA • COSTAR • R-A-O • HTML • JavaScript | [GitHub](https://github.com/dearthaina/joke-ai-agent) |
-| ⏱️ Controlador de Tempo | Dados | Python • Pandas • Streamlit • NumPy • IA • | [GitHub](LINK) |
+| ⏱️ Controlador de Tempo | Dados | Python • Pandas • Streamlit • NumPy • IA • | [GitHub](https://github.com/dearthaina/controlador-tempo) |
 
 ---
 
