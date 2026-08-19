@@ -10,7 +10,7 @@
 
 ## 🛠️ Tecnologias
 
-🐍 Python | 🗄️ SQL | 🌿 Git & GitHub | 🔗 APIs REST | 🧠 Lógica de Programação | 📊 Estrutura de Dados | 🗃️ Banco de Dados | 🤖 IA
+🐍 Python | 🗄️ SQL | Excel | 🤖 IA | 🌿 Git & GitHub | 🔗 APIs REST | 🧠 Lógica de Programação | 📊 Estrutura de Dados | 🗃️ Banco de Dados
 
 ---
 
